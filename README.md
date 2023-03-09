@@ -1,4 +1,4 @@
-# Disable Windows explorer Web Search
+# Disable Windows Explorer Web Search
 
 These are two really simple batch scripts to disable or enable (why would you want that) Windows Web Search (Bing-based).
 
